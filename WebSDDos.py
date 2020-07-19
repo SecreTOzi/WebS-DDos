@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ Hammer Dos Script v.1
+# python 3.3.2+ SecreT Dos Script v.1
 # BY SecreTOzi 
 # Cyber TÜRK Oğuzhan G.
 
@@ -75,14 +75,15 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer Dos Script v.1 http://www.canyalcin.com/
-	It is the end user's responsibility to obey all applicable laws.
-	It is just for server testing script. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
-	-h : help
-	-s : server ip
-	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	print (''' \033[92m	SecreT Dos Script v.1 https://tr-theboss.blogspot.com
+	Yürürlükteki Tüm Yasalara Uymak Son Kullanıcının Sorumluluğundadır.
+	☾★!VARLIĞIM TÜRK VARLIĞINA ARMAĞAN OLSUN!☾★ \n
+	Instagram ; @byyozzi 'Cyber TÜRK Hacker' Mr.SecreTOzi 
+	Kullanım : python3 WebS-DDos.py [-s] [-p] [-t]
+	-h : Yardım!
+	-s : Sunucu İP!
+	-p : Bağlantı Noktası Varsayılanı 80
+	-t : Turbo Varsayılan 135 \033[0m''')
 	sys.exit()
 
 
